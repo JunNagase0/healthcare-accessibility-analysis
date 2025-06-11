@@ -2,3 +2,9 @@
 data/*
 !data/.gitkeep
 healthcare-accessibility-analysis/
+outputs/*
+!outputs/.gitkeep
+Miniconda3-latest-MacOSX-arm64.sh
+notebooks/.ipynb_checkpoints/
+notebooks/cache/
+.DS_Store
